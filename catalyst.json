@@ -1,0 +1,24 @@
+{
+  "functions": {
+    "targets": [
+      "chats",
+      "subcriptions"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "react-app",
+    "plugin": "zcatalyst-cli-plugin-react"
+  },
+  "appsail": [
+    {
+      "source": "/home/chakraatest/Desktop/works/firebasePractice/appsail",
+      "name": "AppSail"
+    },
+    {
+      "source": "/home/chakraatest/Desktop/works/firebasePractice/appsail-automation",
+      "name": "automationAgent"
+    }
+  ]
+}

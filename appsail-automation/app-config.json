@@ -1,0 +1,10 @@
+{
+	"command": "node index.js",
+	"build_path": "/home/chakraatest/Desktop/works/firebasePractice/appsail-automation",
+	"stack": "node20",
+	"env_variables": {
+      "DEBUG": true
+    },
+	"memory": 256,
+	"scripts": {}
+}
